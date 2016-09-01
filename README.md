@@ -1,2 +1,3 @@
 # hello-world
 initial repository
+Hey, i'm spike and i am a german computer science student. What the f*ck am i doing here...
